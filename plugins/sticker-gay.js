@@ -12,7 +12,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     	try {
 			let img = await q.download?.()
 			let out = await uploadImage(img)
-			const res = `https://botcahx.ddns.net/api/maker/trigger?url=${out}`
+			const res = `https://botcahx.ddns.net/api/maker/rainbow?url=${out}`
 			const stiker = await sticker(false, res, global.packname, global.author)
 	        await conn.sendFile(m.chat, stiker, 'sticker.webp', '', m)
     	} catch (e) {
@@ -24,9 +24,9 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     }
 }
 
-handler.help = ['trigger']
+handler.help = ['gay']
 handler.tags = ['sticker']
-handler.command = /^(trigger(ed)?)$/i
+handler.command = /^(gay)$/i
 
 handler.premium = false
 handler.limit = true

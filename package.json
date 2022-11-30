@@ -39,7 +39,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:FERDIZ-afk/baileys",
+        "@adiwajshing/baileys": "github:BOTCAHX/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^3.0.0",
         "instagram-url-direct": "^1.0.12",
@@ -67,6 +67,7 @@
         "mongoose": "^6.0.14",
         "node-fetch": "3.0.0-beta.9",
         "node-gtts": "2.0.2",
+        "node-os-utils": "^1.3.6",
         "node-webpmux": "^3.1.3",
         "nodemon": "^2.0.20",
         "os": "^0.1.2",
