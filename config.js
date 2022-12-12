@@ -11,7 +11,7 @@ global.prems = ['6281772317732']  // isi jika perlu
 
 //Nomor Owner & payment//
 global.nameowner = 'Al Fikri KM' // isi nama kalian bebas
-global.numberowner = '6281772317732' // isi ini untuk mengendalikan bot
+global.numberowner = '6282245744337' // isi ini untuk mengendalikan bot
 global.dana = '6282245744337' // isi dengan nomor dana yg kamu punya 
 global.pulsa = '6282245744337' // isi dengan nomor pulsa hp kalian
 global.gopay = '6282245744337'
