@@ -184,15 +184,15 @@ const ftroli = {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: '© TioXd Official',
+                            message: '© Al_User12 Official',
                             orderTitle: 'MENU',
-                            thumbnail: await (await fetch('https://telegra.ph/file/f4063ab3071f5c4af765a.png')).buffer(),
+                            thumbnail: await (await fetch('https://telegra.ph/file/cfca3d75c4700bfe5f853.png')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
           
                           }
                         }
                       }
-await conn.send3ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/328f69bd3fa43a1aecb20.jpg')).buffer(),  'ʜᴇʀᴇ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ', text, 'ʙᴀᴄᴋ', '.menu', 'ɪɴꜰᴏ', '.info', 'ᴀʟʟᴍᴇɴᴜ', '.pay', m, {  
+await conn.send3ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/5a11aa6202e7d46e5a879.jpg')).buffer(),  'ʜᴇʀᴇ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ', text, 'ʙᴀᴄᴋ', '.menu', 'ɪɴꜰᴏ', '.info', 'ᴀʟʟᴍᴇɴᴜ', '.pay', m, {  
       quoted: ftroli,  
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
@@ -201,7 +201,7 @@ await conn.send3ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/32
               description: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ♡ ᴛɪᴏxᴅ', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/00faf159ce0349901eaf3.jpg')).buffer(), 
-           mediaUrl: `https://www.facebook.com/tio.permana.50999` 
+           mediaUrl: `https://www.facebook.com/itsme.fikri` 
           }  
        }  
       })
